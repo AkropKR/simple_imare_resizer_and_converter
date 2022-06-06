@@ -1,7 +1,7 @@
 """Hello there! Here is my very first project on GitHub. 
 I made it for my working purposes. I would be grateful for your comments"""
 
-#to jpg converter and resiser READY
+#Script is quite simple and short so I didn't write any readme and comments. Hope my variables and function names will help you unerstand what's going on 
 
 import os
 import datetime
